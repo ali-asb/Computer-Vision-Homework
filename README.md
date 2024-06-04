@@ -12,6 +12,7 @@ The CNN model is trained for 10 epochs with the following performance:
 - Training Loss: ~0.1660
 - Validation Loss: ~0.2154
 - Accuracy: 92.16%
+
 You can view detailed training progress and results in the `CNN.ipynb` notebook.
 
 
