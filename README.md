@@ -14,3 +14,6 @@ The CNN model is trained for 10 epochs with the following performance:
 
 You can view detailed training progress and results in the `CNN.ipynb` notebook.
 
+
+By Ali Asouab
+
